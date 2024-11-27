@@ -1,0 +1,14 @@
+{
+  "namespace": "pic",
+  "applicationIdentifiers": [
+    {
+      "title": "PIC",
+      "label": "PIC",
+      "shortcode": "pic",
+      "ai": "01",
+      "type": "I",
+      "regex": "^[A-Z0-9]{8}$",
+      "qualifiers": []
+    }
+  ]
+}
